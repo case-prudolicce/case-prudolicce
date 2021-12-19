@@ -3,7 +3,7 @@
 ![Maintained](https://img.shields.io/badge/Maintained-0-green?style=flat-square&logo=github)
 ![To Maintain](https://img.shields.io/badge/To_Maintain-4-red?style=flat-square&logo=github)
 
-![Upcoming](https://img.shields.io/badge/Upcoming-2%3F-purple?style=flat-square&logo=github)
+![Upcoming](https://img.shields.io/badge/Upcoming-3%3F-purple?style=flat-square&logo=github)
 
 ## I'm a Metal, Cyber Security, Programming, and Linux Ethousiast!
 
@@ -20,9 +20,9 @@
 <br />
 
 ### Languages, Tools and Technologies:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="Python" width="26px" src="https://static-00.iconduck.com/assets.00/python-icon-512x509-pyuo2h5v.png" />](https://www.python.org/)
+[<img align="left" alt="Rust" width="26px" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" />](https://www.rust-lang.org)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="Vim" width="26px" src="https://static-00.iconduck.com/assets.00/vim-icon-511x512-qjunsl3m.png" />](https://www.vim.org/)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/case-prudolicce)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://github.com/case-prudolicce)
