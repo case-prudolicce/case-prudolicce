@@ -1,7 +1,7 @@
 ### Hey wonderful world, I'm Case-Prudolicce, welcome to my portfolio!
-![Projects](https://img.shields.io/badge/Projects-3-blue?style=flat-square&logo=github)
-![Maintained](https://img.shields.io/badge/Maintained-1-green?style=flat-square&logo=github)
-![To Maintain](https://img.shields.io/badge/To_Maintain-2-red?style=flat-square&logo=github)
+![Projects](https://img.shields.io/badge/Projects-4-blue?style=flat-square&logo=github)
+![Maintained](https://img.shields.io/badge/Maintained-0-green?style=flat-square&logo=github)
+![To Maintain](https://img.shields.io/badge/To_Maintain-4-red?style=flat-square&logo=github)
 
 ![Upcoming](https://img.shields.io/badge/Upcoming-1%3F-purple?style=flat-square&logo=github)
 
