@@ -1,8 +1,5 @@
 ### Hey wonderful world, I'm Case-Prudolicce, welcome to my portfolio!
 ![Projects](https://img.shields.io/badge/Projects-4-blue?style=flat-square&logo=github)
-![Maintained](https://img.shields.io/badge/Maintained-0-green?style=flat-square&logo=github)
-![To Maintain](https://img.shields.io/badge/To_Maintain-4-red?style=flat-square&logo=github)
-
 ![Upcoming](https://img.shields.io/badge/Upcoming-3%3F-purple?style=flat-square&logo=github)
 
 ## I'm a Metal, Cyber Security, Programming, and Linux Ethousiast!
