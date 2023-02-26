@@ -1,12 +1,12 @@
 ### Hey wonderful world, I'm Case-Prudolicce also known as Jérémie Simard, welcome to my portfolio!
-![Projects](https://img.shields.io/badge/Projects-4-blue?style=flat-square&logo=github)
-![Upcoming](https://img.shields.io/badge/Upcoming-3%3F-purple?style=flat-square&logo=github)
+![Projects](https://img.shields.io/badge/Projects-3-blue?style=flat-square&logo=github)
+![Upcoming](https://img.shields.io/badge/Upcoming-1%3F-purple?style=flat-square&logo=github)
 
 ## I'm a Metal, Cyber Security, Programming, and Linux Ethousiast!
 
 - 🔭 I just launched this portfolio!
 - 👯 I’m looking to collaborate with other repos!
-- 🥅 My current goal for 2021: Complete a few projects
+- 🥅 My current goal for 2022: Complete a few projects
 - ⚡ Fun fact: I love to do metal vocals and wish someday to make my own solo band project!
 
 ### Connect with me:
