@@ -24,7 +24,7 @@ FileFilter is a tool that takes Folder A with many files, Folder B with other fi
 
 ### Assembly Bootloader
 
-In high school, I created an assembly bootloader project. This project showcased my problem-solving skills and knowledge of low-level programming concepts.
+In high school, I created an assembly bootloader project using a cross compiler and NASM 86_64x. This project showcased my problem-solving skills and knowledge of low-level programming concepts, as I learned the booting process of a computer from BIOS to OS while building it. While I no longer have the code or any reference to it due to its age and my lack of experience at the time, it remains a significant accomplishment in my journey as a programmer.
 
 ## Skills and Technologies
 
