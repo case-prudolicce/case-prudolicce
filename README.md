@@ -22,22 +22,20 @@ hcli is a simple terminal script that wraps the HTTP API that Habitica, a produc
 
 FileFilter is a tool that takes Folder A with many files, Folder B with other files and creates a hashfile out of Folder B, removes matching files in the hashfile from Folder A, then sorts all files in folder A into a generated folder, based on MIME type. The problem that it solved was to alleviate data hoarders by removing any duplicate files and finding a proper place for unknown files but having them sorted.
 
-All of my projects are organized and documented, and I'm always working to keep my skills up to date. If you're interested in collaborating on a project or have an idea for a new project, I'd love to hear from you!
-
 ## Skills and Technologies
 
-Here are a few of the programming languages, tools, and technologies I'm proficient in:
+I have 5+ years of experience in learning and working with various programming languages, tools, and technologies, and I'm always looking to expand my skill set. Here are a few examples of the ones I'm most proficient in:
 
-- Python
-- Rust
-- Visual Studio Code
-- Vim
-- GitHub
-- Git
-- Terminal
-- Linux
+- `Python`: I've used Python for a variety of projects, from web scraping and data analysis to building full-stack web applications using popular frameworks such as Flask. I'm proficient in core concepts such as data structures, algorithms, and object-oriented programming, and I have experience with popular libraries and frameworks such as NumPy and TensorFlow.
+- `Rust`: I'm proficient in Rust and have used it to build high-performance applications with a focus on memory safety and performance. I have experience with core concepts such as ownership, borrowing, and lifetimes, and I have worked with popular libraries such as Diesel.
+- `Visual Studio Code`: I use Visual Studio Code as my primary code editor and have extensive experience with its features and plugins, including debugging, testing, and code formatting.
+- `Vim`: I also have experience with Vim, which I use for editing files on remote servers and for quick text editing tasks. I'm proficient in core concepts such as modes, commands, and macros, and I have experience with popular plugins such as Vundle and Pathogen.
+- `GitHub`: I use GitHub to manage my projects and collaborate with others. I'm proficient in its features and workflows, including pull requests, issues, and code reviews, and I have experience with related tools such as Travis CI and Codecov.
+- `Git`: I have experience with Git, including branching, merging, and resolving conflicts, and I'm proficient in related concepts such as version control and distributed systems.
+- `Terminal`: I'm proficient in using the terminal in Linux and macOS to navigate the file system, run commands, and automate tasks with shell scripts. I have experience with core concepts such as processes, signals, and redirection, and I have worked with popular utilities such as SSH and GnuPG.
+- `Linux`: I'm familiar with various Linux distributions and have experience with system administration tasks such as installing and configuring software, managing users and permissions, and monitoring system resources. I'm proficient in core concepts such as package management, network configuration, and service management, and I have experience with popular distributions such as Ubuntu and Arch Linux.
 
-I'm always looking to expand my skill set and learn new things, so if there's a tool or technology you think I should know about, please let me know!
+I've used these skills to create a variety of projects, from small scripts to large-scale applications, and I'm always looking for new challenges and opportunities to learn and grow. If there's a tool or technology that you need for your project that I'm not familiar with, I'm eager to learn and expand my skill set to meet your needs.
 
 ## Contact Me
 
@@ -50,10 +48,6 @@ If you're interested in working with me or have any questions, you can reach me 
 
 ## Hire Me
 
-If you're looking for a freelance programmer who's passionate about solving problems and creating innovative solutions, I'd love to hear from you! I have experience working independently and in teams, and I'm skilled at identifying and resolving technical issues. Here are a few things you should know about me:
+If you're looking for a freelance programmer who's passionate about solving problems and creating innovative solutions, I'd love to hear from you! I have experience working independently and in teams, and I'm skilled at identifying and resolving technical issues.
 
-- I'm proficient in a variety of programming languages and technologies, and I'm always looking to expand my skill set.
-- I have experience working on a variety of projects, from small scripts to large-scale applications.
-- I'm a skilled problem-solver and have experience identifying and resolving technical issues.
-
-If you're interested in working with me, please don't hesitate to reach out. I'd love to hear more about your project and how I can
+If you're interested in working with me, please don't hesitate to reach out. I'd love to hear more about your project and how I can help you achieve your goals.
