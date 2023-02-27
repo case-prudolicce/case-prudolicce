@@ -22,6 +22,10 @@ hcli is a simple terminal script that wraps the HTTP API that Habitica, a produc
 
 FileFilter is a tool that takes Folder A with many files, Folder B with other files and creates a hashfile out of Folder B, removes matching files in the hashfile from Folder A, then sorts all files in folder A into a generated folder, based on MIME type. The problem that it solved was to alleviate data hoarders by removing any duplicate files and finding a proper place for unknown files but having them sorted.
 
+### Assembly Bootloader
+
+In high school, I created an assembly bootloader project. This project showcased my problem-solving skills and knowledge of low-level programming concepts.
+
 ## Skills and Technologies
 
 I have 5+ years of experience in learning and working with various programming languages, tools, and technologies, and I'm always looking to expand my skill set. Here are a few examples of the ones I'm most proficient in:
